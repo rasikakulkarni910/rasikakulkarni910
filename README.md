@@ -13,7 +13,7 @@ Most of my work is hands-on: RAG, tool-using agents, evaluation, and getting AI 
 
 <h2>About Me</h2>
 
-- Targeting **Senior AI Product Manager** roles after shipping AI as a Solutions Architect and Technical PM across telecom, energy, and enterprise SaaS
+- Shipped AI as a Technical Product Manager across telecom, energy, and enterprise SaaS
 - Recent work: automated 25% of targeted workflows, cut AI PoV delivery from 8 weeks to 2, held 94% task accuracy at 2.2s P95
 - Based in Fremont, CA · open to remote · no sponsorship required
 
