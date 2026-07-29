@@ -19,7 +19,7 @@ Most of my work is hands-on: RAG, tool-using agents, evaluation, and getting AI 
 
 **Building something in enterprise AI? I'd love to chat.**
 
-[LinkedIn](https://www.linkedin.com/in/rasikakulkarni9/) · rasikasinbox@gmail.com[docs/THREAT_MODEL.md](link)
+[LinkedIn](https://www.linkedin.com/in/rasikakulkarni9/) · rasikasinbox@gmail.com
 
 **Latency and cost are architecture decisions, not later optimizations.**
 Cost per thousand queries, P50 and P95, and what quality you actually give up
