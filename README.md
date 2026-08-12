@@ -29,6 +29,6 @@ How the whole system fits together: [docs/ARCHITECTURE.md](link).
 If you'd rather watch it run: [90-second walkthrough](link).
 
 Rasika Kulkarni — Mountain View, CA, open to remote.
-[Email](mailto:) · [LinkedIn](link) · [Résumé](link)
+[Email](mailto:) · [LinkedIn](link) 
 
 ---
